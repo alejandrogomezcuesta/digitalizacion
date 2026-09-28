@@ -1,4 +1,4 @@
-# Vídeo
+# Vídeo: partes de un ordenador
 
 !!! important "Vídeo principal"
     [¿Cómo funciona un PC y que hace cada pieza? | Componentes del ordenador explicados](https://youtu.be/0zkX6nlpiSk?si=5wYXE08BH8qEyyFC)

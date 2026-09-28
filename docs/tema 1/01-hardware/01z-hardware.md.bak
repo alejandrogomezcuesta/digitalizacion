@@ -27,7 +27,7 @@ Este vídeo del canal **Nate Gentile** explica de forma clara y accesible el fun
   * **SSD / NVMe M.2 (Estado Sólido):** Memoria sin partes móviles, sumamente rápida.
 * **Flujo de datos:** Los programas se guardan en el almacenamiento, se cargan a la memoria RAM cuando se abren y la CPU los procesa.
 
-## 4. Tarjeta Gráfica (GPU)
+## 4. Tarjeta Gráfica (GPU) integrada
 * **Función:** Procesador especializado en cálculos visuales y procesamiento en paralelo.
 * **Detalles:** Asume la carga de procesar gráficos 3D, vídeo y efectos de imagen, liberando a la CPU de este trabajo pesado. Es clave para videojuegos, renderizado y edición.
 
@@ -42,3 +42,22 @@ Este vídeo del canal **Nate Gentile** explica de forma clara y accesible el fun
 ## 7. Refrigeración
 * **Función:** Evacuación de calor.
 * **Detalles:** Mantiene las temperaturas de la CPU y la GPU dentro de rangos seguros mediante disipadores y ventiladores (o refrigeración líquida), evitando el *thermal throttling* (pérdida de rendimiento por sobrecalentamiento).
+
+## 8. PCH (Hub) 
+* **Función:** 
+* **Detalles:** 
+
+## 9. GPU integrada
+
+## 10. Tarjeta gráfica dedicada (GPU dedicada)
+
+## 11. Periféricos externos
+
+### 11.1 Monitor
+
+### 11.2 Teclado
+
+### 11.3 Ratón
+
+### 11.4 Altavoces
+

@@ -1,8 +1,7 @@
-# Hardware en un ordenador
+# Vídeo
 
 !!! important "Vídeo principal"
-    [
-¿Cómo funciona un PC y que hace cada pieza? | Componentes del ordenador explicados](https://youtu.be/0zkX6nlpiSk?si=5wYXE08BH8qEyyFC)
+    [¿Cómo funciona un PC y que hace cada pieza? | Componentes del ordenador explicados](https://youtu.be/0zkX6nlpiSk?si=5wYXE08BH8qEyyFC)
 
 # Resumen: ¿Cómo funciona un PC y qué hace cada pieza?
 

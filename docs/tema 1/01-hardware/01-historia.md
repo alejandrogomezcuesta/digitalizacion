@@ -1,4 +1,4 @@
-# Tema 1. Dispositivos digitales, sistemas operativos y de comunicación
+# Historia
 
 !!! important "Vídeo principal"
     [Ver el vídeo de la historia de la Computación](https://www.youtube.com/watch?v=1WZzzVOw2d4&authuser=0)

@@ -37,3 +37,13 @@ Surgimiento de equipos pioneros como el Altair 8800, la Apple II y finalmente la
 ### Desarrollo de Sistemas Operativos actuales
 1986 - Actualidad
 Surgen los sistemas operativos mcintosh y windows de las empresas Apple y Microsoft respectivamente que todavía se siguen utilizando.
+
+## ¿Qué tengo que hacer?
+
+Crea una línea del tiempo con CANVA con los puntos clave de la evolución de los equipos informáticos. 
+Incluye una imagen representativa de cada punto clave.
+
+Cuando termines, dale al botón Compartir que está arriba a la derecha y:
+- Dale a que sea visible por cualquiera que reciba el enlace.
+- Copia el enlace.
+- Entrega el enlace en Classroom.

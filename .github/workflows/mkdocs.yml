@@ -27,6 +27,18 @@ jobs:
       - name: Descargar repositorio
         uses: actions/checkout@v7
 
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+
+      - name: Instalar dependencias de Marp
+        run: npm ci
+
+      - name: Exportar presentaciones Marp
+        run: npm run build:presentaciones
+
       - name: Configurar Python
         uses: actions/setup-python@v7
         with:

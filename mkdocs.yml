@@ -1,16 +1,23 @@
 site_name: Digitalización
-site_description: Digit - 4º ESO
+site_description: LM - 1º ASIR
 site_url: https://alejandrogomezcuesta.github.io/digitalizacion/
 repo_url: https://github.com/alejandrogomezcuesta/digitalizacion
 repo_name: alejandrogomezcuesta/digitalizacion
 site_dir: site
 docs_dir: docs
+exclude_docs: |
+  tema 1/Hardware/clase-1-cpu-gpu.md
+  tema 1/Hardware/clase-2-ram-almacenamiento.md
+  tema 1/Hardware/clase-3-placa-expansion-puertos.md
+  tema 1/Hardware/clase-4-perifericos-fuente.md
+  tema 1/Hardware/clase-5-taller-pcpartpicker.md
 strict: true
 
 theme:
   name: material
   language: es
   features:
+    - navigation.footer
     - navigation.instant
     - navigation.sections
     - navigation.expand
@@ -19,6 +26,7 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
+    - content.code.select 
     - content.code.annotate
     - toc.follow
   font:
@@ -44,9 +52,6 @@ plugins:
 markdown_extensions:
   - admonition
   - attr_list
-  - codehilite:
-      guess_lang: false
-      use_pygments: true
   - def_list
   - footnotes
   - md_in_html

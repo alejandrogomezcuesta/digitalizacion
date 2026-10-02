@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build:presentaciones": "marp \"docs/tema 1/Hardware/clase-1-cpu-gpu.md\" --output \"docs/tema 1/Hardware/presentaciones-html/clase-1-cpu-gpu.html\" && marp \"docs/tema 1/Hardware/clase-2-ram-almacenamiento.md\" --output \"docs/tema 1/Hardware/presentaciones-html/clase-2-ram-almacenamiento.html\" && marp \"docs/tema 1/Hardware/clase-3-placa-expansion-puertos.md\" --output \"docs/tema 1/Hardware/presentaciones-html/clase-3-placa-expansion-puertos.html\" && marp \"docs/tema 1/Hardware/clase-4-perifericos-fuente.md\" --output \"docs/tema 1/Hardware/presentaciones-html/clase-4-perifericos-fuente.html\" && marp \"docs/tema 1/Hardware/clase-5-taller-pcpartpicker.md\" --output \"docs/tema 1/Hardware/presentaciones-html/clase-5-taller-pcpartpicker.html\""
+    "build:presentaciones": "node scripts/build-presentaciones.js"
   },
   "devDependencies": {
     "@marp-team/marp-cli": "^4.5.1"

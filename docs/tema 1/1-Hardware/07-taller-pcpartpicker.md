@@ -3,7 +3,14 @@ marp: true
 theme: default
 paginate: true
 lang: es
+title: "Taller PCPartPicker"
+style: |
+  .mkdocs-only { display: none; }
 ---
+
+<div class="mkdocs-only" style="text-align:center; border: 2px solid red; padding: 20px; font-size: x-large;">
+  <a href="../presentaciones-html/07-taller-pcpartpicker.html">Abrir presentación</a>
+</div>
 
 # Hardware 5
 ## Taller de configuración en PCPartPicker

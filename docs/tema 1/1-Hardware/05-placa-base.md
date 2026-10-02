@@ -3,11 +3,18 @@ marp: true
 theme: default
 paginate: true
 lang: es
+title: "Placa base"
+style: |
+  .mkdocs-only { display: none; }
 ---
 
-# Hardware 3
-## Placa base, expansión y puertos
+# Hardware
+## Placa base
 **Digitalización · 4.º ESO**
+
+<div class="mkdocs-only" style="text-align:center; border: 2px solid red; padding: 20px; font-size: x-large;">
+  <a href="../presentaciones-html/05-placa-base.html">Abrir presentación</a>
+</div>
 
 ---
 

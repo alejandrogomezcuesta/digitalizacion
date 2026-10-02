@@ -3,11 +3,18 @@ marp: true
 theme: default
 paginate: true
 lang: es
+title: "Memoria RAM vs almacenamiento"
+style: |
+  .mkdocs-only { display: none; }
 ---
 
-# Hardware 2
-## Memoria RAM y almacenamiento
+# Hardware
+## Memoria RAM vs almacenamiento
 **Digitalización · 4.º ESO**
+
+<div class="mkdocs-only" style="text-align:center; border: 2px solid red; padding: 20px; font-size: x-large;">
+  <a href="../presentaciones-html/04-ram-almacenamiento.html">Abrir presentación</a>
+</div>
 
 ---
 
@@ -45,11 +52,13 @@ lang: es
 ## Almacenamiento interno y externo
 
 **Almacenamiento interno**. El que está dentro del dispositivo.
+
 - Discos duros
 - Unidades SSD
 - Tarjetas SD
 
 **Almacenamiento externo**. El que está fuera del dispositivo. 
+
 - Pendrives USB
 - CD-ROM
 - DVD
@@ -81,10 +90,10 @@ Almacenamiento interno para ordenadores.
 ### SSD clásicos
 - Son los discos duros rectangulares.
 
+![bg right:40% contain](https://upload.wikimedia.org/wikipedia/commons/6/6f/Super_Talent_2.5in_SATA_SSD_SAM64GM25S.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 ### SSD M.2
 - Son discos duros que parecen una barrita de chicle.
-
-![bg right:40% contain](https://upload.wikimedia.org/wikipedia/commons/6/6f/Super_Talent_2.5in_SATA_SSD_SAM64GM25S.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 ![bg right:40% contain](https://upload.wikimedia.org/wikipedia/commons/0/03/A_2230_NVME_SSD.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 

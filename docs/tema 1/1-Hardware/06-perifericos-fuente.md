@@ -3,7 +3,14 @@ marp: true
 theme: default
 paginate: true
 lang: es
+title: "Periféricos y fuente de alimentación"
+style: |
+  .mkdocs-only { display: none; }
 ---
+
+<div class="mkdocs-only" style="text-align:center; border: 2px solid red; padding: 20px; font-size: x-large;">
+  <a href="../presentaciones-html/06-perifericos-fuente.html">Abrir presentación</a>
+</div>
 
 # Hardware 4
 ## Periféricos y fuente de alimentación

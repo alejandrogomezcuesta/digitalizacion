@@ -1,139 +1,52 @@
----
-marp: true
-theme: default
-paginate: true
-lang: es
-title: "Taller PCPartPicker"
-style: |
-  .mkdocs-only { display: none; }
----
+# Presupuesto de ordenadores
 
-<div class="mkdocs-only" style="text-align:center; border: 2px solid red; padding: 20px; font-size: x-large;">
-  <a href="../presentaciones-html/07-taller-pcpartpicker.html">Abrir presentación</a>
-</div>
+Vamos a construir tres ordenadores para tres tipos de usuarios diferentes:
 
-# Hardware 5
-## Taller de configuración en PCPartPicker
-**Digitalización · 4.º ESO**
+- Una persona que quiere un ordenador solo para navegar por internet y poco más.
+- Alguien que necesita hacer los deberes de Digitalización y de vez en cuando jugar.
+- Una persona que quiere jugar a los últimos juegos.
 
----
+Vamos a utilizar dos páginas web:
 
-## Hoy entregas un diseño razonado
-- Cliente, tareas y presupuesto máximos.
-- Lista completa de componentes principales.
-- Evidencia de compatibilidad comprobada.
-- Coste con fuente y fecha; exclusiones indicadas.
+1. [PC Benchmark Builder](https://www.pcbenchmarks.net/builder.php)
+2. [PcPartPicker](https://pcpartpicker.com/list/)
 
----
+## PC Benchmark Builder
 
-## Una lista no es una compra
-- PCPartPicker organiza componentes y avisa de algunos conflictos.
-- No reserva stock ni garantiza el precio final.
-- Su estimación de vatios no sustituye ficha de la fuente.
-- El objetivo es justificar una propuesta, no comprarla.
+En la página de [PC Benchmark Builder](https://www.pcbenchmarks.net/builder.php) vemos que abajo a la derecha hay una gráfica que nos indica la puntuación estimada de la configuración que vamos a elegir.
 
----
+Hay tres colores:
 
-## Empieza por el uso
-- Juegos: resolución y títulos previstos orientan la GPU.
-- Ofimática/clase: prioriza respuesta, fiabilidad y coste suficiente.
-- Edición: revisa requisitos del programa, RAM y CPU/GPU.
-- Si el perfil tiene monitor o periféricos, aclara si están incluidos.
+- Rojo: puntuación baja para ordenadores simples.
+- Naranja: puntuación media para ordenadores potentes.
+- Verde: punutación media para ordenadores de gaming.
 
----
+![Benchmarks de la opción elegida](image-1.png)
 
-## Orden recomendado de selección
-1. CPU y placa base compatibles.
-2. RAM admitida, almacenamiento y GPU si hace falta.
-3. Caja por formato/espacio y fuente por potencia/conectores.
-4. Revisar refrigeración, sistema operativo y periféricos del perfil.
+En esta otra parte de la página puedes elegir elementos que hemos visto en clase que forman parte de un ordenador:
 
----
+- CPU
+- Video card o tarjeta gráfica dedicada
+- Drive o almacenamiento interno
+- Memory o memoria RAM
 
-## Comprobar compatibilidad
-- Socket y versión de BIOS.
-- Generación/capacidad de RAM.
-- Formato de placa y caja.
-- Longitud de GPU, altura de disipador, conectores y ranuras.
-- Puertos de red, USB, audio y vídeo que necesita el perfil.
-- Investiga alertas; no las ignores ni supongas que la lista lo ve todo.
+![Componentes principales que delimitan la potencia de un ordenador](image-2.png)
 
----
+Según eliges las opciones, estas van apareciendo en el dibujo de una tarjeta gráfica:
 
-## Potencia y eficiencia
-- Registra el consumo estimado por el configurador.
-- Elige fuente con margen sensato y conectores necesarios.
-- 80 Plus describe eficiencia bajo condiciones de prueba.
-- No confundas eficiencia con potencia máxima ni calidad completa.
+![Tarjeta gráfica](image-3.png)
 
----
+Volviendo a la gráfica, fíjate que existe una columna que se colorea. Esta banda estima en qué lugar debería estar la configuración de elementos que has elegido previamente.
 
-## Control del presupuesto
-- Anota subtotal y moneda de la región seleccionada.
-- Verifica si impuestos/envío están incluidos; normalmente pueden variar.
-- Si excede el límite, cambia una decisión y justifica el compromiso.
-- No reduzcas la fuente a una opción insegura para cuadrar el coste.
+## PcPartPicker
 
----
+En esta otra web [PcPartPicker](https://pcpartpicker.com/list/) podemos elegir todos los elementos que componen un ordenador buscando precios reales.
 
-## Justificación para el cliente
-- «Elijo X porque responde a la necesidad Y».
-- Incluye una evidencia concreta (especificación, precio o benchmark).
-- Menciona un límite o mejora futura razonable.
-- Evita afirmar que una puntuación garantiza resultados exactos.
+![Componentes y precios](image-4.png)
 
----
+## ¿Qué hay que hacer?
 
-## Entrega clara para IA
-- Usa `proyecto-final.md` sin renombrar etiquetas.
-- Una respuesta por campo; escribe `NO_APLICA` cuando corresponda.
-- Enlaces completos, precios numéricos y unidades explícitas.
-- La IA evalúa evidencias declaradas; no inventes datos faltantes.
+Elige tres configuraciones de componentes de ordenador en PC Benchark, haciendo que cada configuración quede su estimación de benchmark en rojo, naranja y verde.
 
----
+Después elige los componentes seleccionados y haz tres presupuesto diferentes con PC Part Picker.
 
-## Lista de control antes de enviar
-- ¿El uso y presupuesto coinciden con el perfil?
-- ¿Están CPU, placa, RAM, almacenamiento, caja y fuente?
-- ¿Has comprobado alertas y al menos tres compatibilidades, incluida una de puertos/periféricos?
-- ¿Enlace abre y precios tienen fecha, moneda y fuente?
-
----
-
-## Taller 1 · Carga el perfil
-1. Abre [PCPartPicker System Builder](https://pcpartpicker.com/list/).
-2. Selecciona la región acordada por el docente.
-3. Copia el perfil asignado en tu plantilla.
-4. Define tope de torre y componentes que quedan fuera.
-
----
-
-## Taller 2 · Selecciona piezas
-1. Añade CPU y placa; confirma socket/plataforma.
-2. Añade RAM, almacenamiento y GPU según el perfil.
-3. Añade caja compatible y fuente con conectores suficientes.
-4. Guarda la lista y copia el enlace compartible.
-
----
-
-## Taller 3 · Investiga alertas
-1. Abre el apartado de compatibilidad de la lista.
-2. Copia alertas literalmente o escribe `NINGUNA`.
-3. Verifica socket, RAM, caja/GPU y fuente en fichas técnicas.
-4. Registra URL de evidencia para cada verificación.
-
----
-
-## Taller 4 · Revisa coste y potencia
-1. Copia subtotal y moneda mostrados.
-2. Registra estimación de potencia y modelo de fuente.
-3. Compara subtotal con tope y explica cualquier desviación.
-4. Indica que disponibilidad/precio pueden cambiar.
-
----
-
-## Taller 5 · Cierre
-1. Resume el perfil, la lista de componentes, el coste y las compatibilidades verificadas.
-2. Incluye las URLs de la lista y de las fichas técnicas consultadas.
-3. Explica tres decisiones y una renuncia de la configuración.
-4. Presenta el trabajo según las indicaciones del docente; no compres componentes.

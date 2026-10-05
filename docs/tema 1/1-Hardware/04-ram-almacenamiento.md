@@ -35,6 +35,8 @@ style: |
 - Es **carísima** con respecto al almacenamiento.
 - Tener más RAM facilita mantener más aplicaciones y pestañas abiertas a la vez.
 
+![bg right:40% contain](https://upload.wikimedia.org/wikipedia/commons/3/3c/DDR_RAM-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+
 ---
 
 ## Almacenamiento
@@ -46,6 +48,8 @@ style: |
   - Normalmente hoy día más de 1TB o 2TB. Cada terabyte son 1024 GB.
 - Es **barata** con respecto a la memoria RAM.
 - Tener más almacenamiento implica guardar más archivos de forma permanente.
+
+![bg right:40% contain](https://upload.wikimedia.org/wikipedia/commons/3/33/2019_Rozebrane_dyski_twarde.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 ---
 

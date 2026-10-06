@@ -2,7 +2,7 @@
 
 <https://docs.google.com/presentation/d/1PfcuR8tzRMR7v_zr7D3GS2l6DG87tOfczCQ3W7-8jqM/edit?usp=sharing>
 
-**Ejercicios**
+## Ejercicio
 
 Abre tu última entrega de la aplicación filius. También puedes descargar el fichero <simulacion-red-internet-sin-dhcp.fls> y abrirlo.
 
@@ -15,7 +15,7 @@ La información que queremos que el servidor DHCP le dé a los dispositivos de n
 
 Sigue los pasos de la solución.
 
-[Solución]()
+[Solución - Configuración del DHCP](https://docs.google.com/presentation/d/1WfrmqRpreOOWgNHm_-VPl8XXCx8DFWcmF6k0yTscWFc/edit?usp=sharing)
 
 Haz una captura de pantalla del resultado final, donde todos los dispositivos de la red local están configurados para recibir una IP desde el servidor DHCP y la entregas. Date cuenta que las IPs ahora deben recibirse desde DHCP, y todas tienen que estar en el intervalo de `192.168.0.100` a `192.168.0.200`.
 
@@ -23,7 +23,7 @@ Guarda este proyecto como `simulacion-red-internet-con-dhcp-<tu-nombre>.fls` y t
 
 > Sustituye donde dice `<tu-nombre>` por tu nombre.
 
-**Entregas**
+## Entregas
 
 - Una captura de pantalla.
 - Un fichero `.fls`.

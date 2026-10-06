@@ -10,23 +10,23 @@ En esta práctica vamos a ver cómo funciona el servidor DNS.
 
 En primer lugar vamos a ver que si nos metemos en el navegador web del ordenador que está primero a la izquierda, el ahora bautizado como `192.168.0.100` y nos conectamos a `www.tiktok.com` no podemos.
 
-[Primer problema](https://docs.google.com/presentation/d/1WZfi2G8fzXsgSgUZ9l_cXDWiKJCxaO1Nmhyi-Y_J9PQ/edit?usp=sharing)
+[Primer problema: sin configuración del DNS en el DHCP](https://docs.google.com/presentation/d/1WZfi2G8fzXsgSgUZ9l_cXDWiKJCxaO1Nmhyi-Y_J9PQ/edit?usp=sharing)
 
 La primera captura de pantalla a entregar es el error anterior. Llama a la captura: `1-sin-dns.jpg`.
 
 No hemos configurado correctamente el servidor DHCP porque no hemos puesto a qué servidor DNS se tienen que conectar los dispositivos de nuestra red.
 
-[Solución](https://docs.google.com/presentation/d/1KJ0bGmfaXUTicrx8xgStjOakNYovn1OJKUjZFA32y4k/edit?usp=sharing)
+[Prima solución - Corregir el DNS en el DHCP](https://docs.google.com/presentation/d/1KJ0bGmfaXUTicrx8xgStjOakNYovn1OJKUjZFA32y4k/edit?usp=sharing)
 
 Aplica la solución que describe el vídeo. Para comprobar que lo has hecho, tal y como el vídeo hace, entra en la terminal del ordenador de la izquierda y ejecuta la orden `ipconfig`. Aquí se debe mostrar que el DNS está bien configurado. Haz una captura de pantalla de esto y llámala: `2-con-dns.jpg`. 
 
 Ahora, con el DNS correctamente configurado: sigue fallando. Fíjate en el vídeo siguiente.
 
-[Segundo problema](https://docs.google.com/presentation/d/1wM4pMxLaiKD7dGbzrvIz7KNpg3AjkIhAZeL9Y7U_bR4/edit?usp=sharing)
+[Segundo problema: el servidor DNS no está configurado](https://docs.google.com/presentation/d/1wM4pMxLaiKD7dGbzrvIz7KNpg3AjkIhAZeL9Y7U_bR4/edit?usp=sharing)
 
 El problema está en que el servidor DNS está mal configurado. Nadie ha colocado que la ip de `www.tiktok.com` es `8.8.8.188`. Normalmente esto lo hacen los administradores de sistemas. Fíjate en cómo se hace este paso.
 
-[Solución](https://docs.google.com/presentation/d/1HP5cJkvXdCwDpJABTeTDK5KE9_69eerToLFFFo8XXeY/edit?usp=sharing)
+[Solución final: el servidor DNS está configurado y podemos entrar en www.tiktok.com](https://docs.google.com/presentation/d/1HP5cJkvXdCwDpJABTeTDK5KE9_69eerToLFFFo8XXeY/edit?usp=sharing)
 
 La tercera captura de pantalla es que tú hagas los pasos de la solución anterior. Llama a esta captura: `3-dns-configurado.jpg`. Aquí se tiene que ver cómo configuras correctamente el servidor DNS.
 

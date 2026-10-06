@@ -1,11 +1,11 @@
-# IP
+# Crear una red (local)
 
-**Presentación**
+## Presentación
 
 <https://docs.google.com/presentation/d/1CeZjAEcxtNCsZS6vtlDMavmGLh6Ov88U9WoGzldMldY>
 
 
-**Ejercicios**
+## Ejercicio
 
 Vamos a crear un proyecto de Filius donde creemos una red local como la de la presentación.
 
@@ -17,7 +17,7 @@ Guarda el proyecto como `simulacion-red-ejercicio1-<tu-nombre>.fls` y haz una ca
 
 [Solución](https://docs.google.com/presentation/d/1IPwk0OV2hL5XtjBNRCvuPKv3ZnMrOa-akxTbXmvxZu0/edit?usp=sharing)
 
-**Entregas**
+## Entregas
 
 - Una captura de pantalla.
 - Un fichero `.fls`.

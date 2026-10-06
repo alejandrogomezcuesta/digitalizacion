@@ -21,7 +21,7 @@ Hay tres colores:
 - Naranja: puntuación media para ordenadores potentes.
 - Verde: punutación media para ordenadores de gaming.
 
-![Benchmarks de la opción elegida](image-1.png)
+![Benchmarks de la opción elegida](presupuesto-image-1.png)
 
 En esta otra parte de la página puedes elegir elementos que hemos visto en clase que forman parte de un ordenador:
 
@@ -30,11 +30,11 @@ En esta otra parte de la página puedes elegir elementos que hemos visto en clas
 - Drive o almacenamiento interno
 - Memory o memoria RAM
 
-![Componentes principales que delimitan la potencia de un ordenador](image-2.png)
+![Componentes principales que delimitan la potencia de un ordenador](presupuesto-image-2.png)
 
 Según eliges las opciones, estas van apareciendo en el dibujo de una tarjeta gráfica:
 
-![Tarjeta gráfica](image-3.png)
+![Tarjeta gráfica](presupuesto-image-3.png)
 
 Volviendo a la gráfica, fíjate que existe una columna que se colorea. Esta banda estima en qué lugar debería estar la configuración de elementos que has elegido previamente.
 
@@ -42,7 +42,7 @@ Volviendo a la gráfica, fíjate que existe una columna que se colorea. Esta ban
 
 En esta otra web [PcPartPicker](https://pcpartpicker.com/list/) podemos elegir todos los elementos que componen un ordenador buscando precios reales.
 
-![Componentes y precios](image-4.png)
+![Componentes y precios](presupuesto-image-4.png)
 
 ## ¿Qué hay que hacer?
 

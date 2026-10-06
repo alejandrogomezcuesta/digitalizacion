@@ -14,8 +14,22 @@
 
 ### Práctica 1
 
-Hacer un canva que salga una imagen de la placa base y según se vaya pasando por las diferentes partes que salga una ventana diciendo qué es.
+Hacer un genially que salga [esta imagen de la placa base](placa-base.jpg).
+
+Según el ratón vaya pasando por los diferentes números, tiene que aparecer una ventana que indique qué parte es.
+
+Cuando termines, envía un enlace por Classroom de esta presentación.
 
 ### Práctica 2
 
-Hacer otro canva con los puertos.
+Crea otro genially donde aparezcan los conectores macho y hembra de los siguientes tipos:
+
+- USB-A
+- USB-B
+- USB-C
+- minijack: colores rosa, azul y verde.
+- HDMI
+- DisplayPort
+- RJ-45
+
+De la misma forma que en el ejercicio anterior, crea una presentación donde al pasar el ratón por encima de cada tipo de conectores, se indique de qué tipo es y para qué sirve.

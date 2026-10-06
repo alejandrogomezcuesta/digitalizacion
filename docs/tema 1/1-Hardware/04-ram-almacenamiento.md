@@ -111,20 +111,40 @@ Almacenamiento interno para ordenadores.
 ---
 
 ## Práctica 1
+
+Vamos a ver la memoria RAM que tiene nuestro ordenador Linux Mint.
+
 1. En Linux Mint abre **Terminal** desde el menú.
 2. Ejecuta `free -h` y pulsa Intro.
-3. En la fila `Mem`, localiza `total`, `used` y `available`; anota los tres valores con unidades.
+3. En la fila `Mem` dice:
+   1. `total`: indica la cantidad de memoria RAM total.
+   2. `usado`: indica la cantidad de memoria RAM que se está utilizando ahora mismo.
+   3. `libre`: indica la cantidad de memoria RAM que queda libre.
 4. Haz una captura legible donde aparezcan la orden y su resultado.
 5. Guarda y entrega el archivo como **`ejercicio1.jpg`**.
+
+
+![bg right:40% contain](ram-almacenamiento-ejercicio1.png)
 
 ---
 
 ## Práctica 2
+
+Vamos a ver la cantidad de almacenamiento interno que tiene nuestro ordenador Linux Mint.
+
 1. Abre **Terminal** en Linux Mint.
 2. Ejecuta `df -h /` para consultar el almacenamiento del sistema de archivos raíz.
-3. Localiza `Size`, `Used`, `Avail` y `Use%`; son capacidad, espacio ocupado, espacio disponible y porcentaje usado.
-4. Captura la Terminal completa, con la orden y la fila de resultado legibles.
+3. Tenemos una fila que dice:
+   1. `Tamaño`: cantidad en gigabytes del almacenamiento interno.
+   2. `Usados`: cantidad en gigabytes utilizandos del almacenamiento interno.
+   3. `Dis`: cantidad en gigabytes disponibles, es decir, libres.
+   4. `Uso %`: porcentaje del uso del almacenamiento interno..
+4. Haz una captura legible donde aparezcan la orden y su resultado.
 5. Guarda y entrega el archivo como **`ejercicio2.jpg`**. 
+
+![bg right:40% contain](ram-almacenamiento-ejercicio2.png)
+
+
 ---
 
 ## Práctica 3
@@ -133,6 +153,9 @@ Almacenamiento interno para ordenadores.
 3. Haz una captura de pantalla donde se lean la aplicación y esos valores, sin notificaciones ni datos personales.
 4. Guarda y entrega la imagen como **`ejercicio3.jpg`**. 
 
+
+![bg right:40% contain](ram-almacenamiento-ejercicio3.png)
+
 ---
 
 ## Práctica 4 
@@ -140,3 +163,5 @@ Almacenamiento interno para ordenadores.
 2. Si tu versión no muestra el almacenamiento, consulta **Ajustes > Almacenamiento**; no instales otra aplicación.
 3. Captura la pantalla donde se entiendan el total y el espacio disponible/usado. Oculta notificaciones o información personal.
 4. Guarda y entrega la imagen como **`ejercicio4.jpg`**.
+
+![bg right:40% contain](ram-almacenamiento-ejercicio4.png)

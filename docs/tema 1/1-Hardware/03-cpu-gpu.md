@@ -157,9 +157,14 @@ La GPU integrada puede compartir memoria del sistema.
 
 1. Abre **Terminal** en Linux Mint.
 2. Teclea `lscpu` y pulsa Intro.
-3. Muestra `Model name`, `CPU(s)`, `Core(s) per socket`, `Thread(s) per core` y `Socket(s)`.
-4. Captura la Terminal completa y guárdala como `ejercicio1.jpg`.
-5. Entrega el fichero en Classroom.
+3. Muestra `CPU(s)`, `Nombre del modelo`, `CPU(s)`, `Núcleo(s) por socket`.
+4. Captura la terminal donde se vean los anteriores elementos
+5. Guarda el fichero como `ejercicio1.jpg` o `ejercicio1.png`.
+   1. **IMPORTANTE**. El fichero se tiene que llamar así obligatoriamente.
+6. Entrega el fichero en Classroom.
+
+![bg right:40% contain](cpu-gpu-lscpu.gif)
+![bg right:40% contain](cpu-gpu-ejercicio1.png)
 
 ---
 
@@ -171,6 +176,8 @@ La GPU integrada puede compartir memoria del sistema.
 4. Si `inxi` no está disponible, avisa al profe.
 5. Entrega el fichero en Classroom.
 
+![bg right:40% contain](cpu-gpu-ejercicio2.png)
+
 ---
 
 ## Práctica 3 · Identifica la CPU del móvil
@@ -180,6 +187,8 @@ La GPU integrada puede compartir memoria del sistema.
 3. Captura esa pantalla y expórtala como `ejercicio3.jpg`.
 4. Comprueba que se lee el nombre completo del modelo.
 5. Entrega el fichero en Classroom.
+
+![bg right:40% contain](cpu-gpu-ejercicio3.png)
 
 ---
 
@@ -191,11 +200,21 @@ La GPU integrada puede compartir memoria del sistema.
 4. Si aparece en la misma pantalla que la CPU, entrega una copia del fichero anterior pero con el nombre actualizado.
 5. Entrega el fichero en Classroom.
 
+![bg right:40% contain](cpu-gpu-ejercicio4.png)
+
 ---
 
 ## Práctica 5 · Compara la CPU del ordenador con la del teléfono
 
 1. Abre [PassMark CPU Benchmark](https://www.cpubenchmark.net/).
-2. Busca la CPU del ordenador y la CPU del teléfono; compara **CPU Mark** con **CPU Mark**.
-3. Ejemplo de comparativa: [MediaTek MT6781 vs Intel i3-10110U](https://www.cpubenchmark.net/compare/5351vs3573/Mediatek-MT6781-vs-Intel-i3-10110U).
-4. Copia la URL de la comparación y entrégala en Classroom como enlace.
+2. Busca la CPU del ordenador.
+   1. Tienes que buscar en la sección *Intel* o *AMD*.
+   2. Añádelo al comparador.
+3. Busca la CPU del teléfono.
+   1. Tienes que buscar en la sección *Other* u *All*.
+   2. Añádelo al comparador.
+4. Pulsa arriba a la derecha ver la comparación de ambos procesadores.
+   1. Ejemplo de comparativa: [MediaTek MT6781 vs Intel i3-10110U](https://www.cpubenchmark.net/compare/5351vs3573/Mediatek-MT6781-vs-Intel-i3-10110U).
+5. Copia la URL de la comparación y entrégala en Classroom como enlace.
+
+![bg right:40% contain](cpu-gpu-buscar-cpu.gif)

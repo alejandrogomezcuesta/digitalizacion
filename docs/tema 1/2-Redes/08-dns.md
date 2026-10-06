@@ -16,7 +16,7 @@ La primera captura de pantalla a entregar es el error anterior. Llama a la captu
 
 No hemos configurado correctamente el servidor DHCP porque no hemos puesto a qué servidor DNS se tienen que conectar los dispositivos de nuestra red.
 
-[Prima solución - Corregir el DNS en el DHCP](https://docs.google.com/presentation/d/1KJ0bGmfaXUTicrx8xgStjOakNYovn1OJKUjZFA32y4k/edit?usp=sharing)
+[Primera solución - Corregir el DNS en el DHCP](https://docs.google.com/presentation/d/1KJ0bGmfaXUTicrx8xgStjOakNYovn1OJKUjZFA32y4k/edit?usp=sharing)
 
 Aplica la solución que describe el vídeo. Para comprobar que lo has hecho, tal y como el vídeo hace, entra en la terminal del ordenador de la izquierda y ejecuta la orden `ipconfig`. Aquí se debe mostrar que el DNS está bien configurado. Haz una captura de pantalla de esto y llámala: `2-con-dns.jpg`. 
 

@@ -6,6 +6,6 @@
 
 ## Modificar usuarios
 
-### Cambiar contraseña
+## Cambiar contraseña
 
 ## Borrar usuarios

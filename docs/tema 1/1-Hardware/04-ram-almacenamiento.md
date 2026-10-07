@@ -153,6 +153,10 @@ Vamos a ver la cantidad de almacenamiento interno que tiene nuestro ordenador Li
 3. Haz una captura de pantalla donde se lean la aplicación y esos valores, sin notificaciones ni datos personales.
 4. Guarda y entrega la imagen como **`ejercicio3.jpg`**. 
 
+**iPhone**
+
+Quien tiene iPhone tiene que buscar en CPU-Z la sección donde pone **Memory**. Y se entrega una captura de pantalla de eso.
+
 
 ![bg right:40% contain](ram-almacenamiento-ejercicio3.png)
 
@@ -163,5 +167,11 @@ Vamos a ver la cantidad de almacenamiento interno que tiene nuestro ordenador Li
 2. Si tu versión no muestra el almacenamiento, consulta **Ajustes > Almacenamiento**; no instales otra aplicación.
 3. Captura la pantalla donde se entiendan el total y el espacio disponible/usado. Oculta notificaciones o información personal.
 4. Guarda y entrega la imagen como **`ejercicio4.jpg`**.
+
+**iPhone**
+
+
+Quien tiene iPhone tiene que buscar en CPU-Z la sección donde pone **Storage**. Y se entrega una captura de pantalla de eso.
+
 
 ![bg right:40% contain](ram-almacenamiento-ejercicio4.png)

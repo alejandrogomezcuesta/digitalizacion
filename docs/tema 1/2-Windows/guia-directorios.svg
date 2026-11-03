@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="460" viewBox="0 0 1260 460" role="img" aria-labelledby="title description">
+  <title id="title">Guía visual de la estructura de carpetas</title>
+  <desc id="description">Tres estados esperados de la práctica: después de renombrar, después de copiar y mover, y el resultado final tras borrar las copias.</desc>
+  <style>
+    text { font-family: Arial, sans-serif; fill: #202124; }
+    .panel { fill: #f7f9fc; stroke: #b7c5d6; stroke-width: 2; }
+    .heading { font-size: 21px; font-weight: 700; fill: #174a7e; }
+    .tree { font-family: "DejaVu Sans Mono", monospace; font-size: 16px; }
+    .note { font-size: 14px; fill: #4b5563; }
+  </style>
+  <rect x="10" y="10" width="390" height="440" rx="14" class="panel"/>
+  <text x="30" y="48" class="heading">Después de la Tarea 3</text>
+  <text x="30" y="88" class="tree">
+    <tspan x="30" dy="0">Practica_archivos/</tspan>
+    <tspan x="30" dy="28">├─ Textos/</tspan>
+    <tspan x="30" dy="25">│  ├─ Notas.txt</tspan>
+    <tspan x="30" dy="25">│  └─ Borrador.txt</tspan>
+    <tspan x="30" dy="28">├─ Copias/</tspan>
+    <tspan x="30" dy="28">└─ Entrega/</tspan>
+  </text>
+  <text x="30" y="335" class="note">La carpeta Documentos ahora se llama Textos.</text>
+
+  <rect x="435" y="10" width="390" height="440" rx="14" class="panel"/>
+  <text x="455" y="48" class="heading">Después de la Tarea 5</text>
+  <text x="455" y="88" class="tree">
+    <tspan x="455" dy="0">Practica_archivos/</tspan>
+    <tspan x="455" dy="27">├─ Textos/</tspan>
+    <tspan x="455" dy="24">│  └─ Notas.txt</tspan>
+    <tspan x="455" dy="27">├─ Copias/</tspan>
+    <tspan x="455" dy="24">│  └─ Notas.txt</tspan>
+    <tspan x="455" dy="27">└─ Entrega/</tspan>
+    <tspan x="455" dy="24">   ├─ Borrador.txt</tspan>
+    <tspan x="455" dy="24">   └─ Textos_copiados/</tspan>
+    <tspan x="455" dy="24">      ├─ Notas.txt</tspan>
+    <tspan x="455" dy="24">      └─ Borrador.txt</tspan>
+  </text>
+  <text x="455" y="395" class="note">La carpeta copiada se movió a Entrega.</text>
+
+  <rect x="860" y="10" width="390" height="440" rx="14" class="panel"/>
+  <text x="880" y="48" class="heading">Después de la Tarea 6</text>
+  <text x="880" y="88" class="tree">
+    <tspan x="880" dy="0">Practica_archivos/</tspan>
+    <tspan x="880" dy="28">├─ Textos/</tspan>
+    <tspan x="880" dy="25">│  └─ Notas.txt</tspan>
+    <tspan x="880" dy="28">├─ Copias/</tspan>
+    <tspan x="880" dy="28">└─ Entrega/</tspan>
+    <tspan x="880" dy="25">   └─ Borrador.txt</tspan>
+  </text>
+  <text x="880" y="335" class="note">Se borran solo las copias, no los originales.</text>
+</svg>

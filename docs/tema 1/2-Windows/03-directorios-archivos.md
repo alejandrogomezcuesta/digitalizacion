@@ -1,13 +1,12 @@
 # Directorios y archivos
 
-En esta práctica aprenderás a organizar carpetas y archivos en Windows 11 con el **Explorador de archivos**. 
-Guarda el trabajo en la carpeta **Documentos** de tu máquina virtual. Después de cada tarea, haz una captura que muestre el resultado en el Explorador de archivos y guárdala con el nombre indicado: `Tarea X.jpg`.
+En esta práctica aprenderás a organizar carpetas y archivos en Windows 11 con el **Explorador de archivos**. Empieza en el **Escritorio** de tu máquina virtual: allí crearás la carpeta de la práctica y, dentro de ella, el resto de directorios y archivos. Después de cada tarea, haz una captura que muestre el resultado en el Explorador de archivos y guárdala con el nombre indicado: `Tarea X.jpg`.
 
 ![Esquema de cómo debe quedar la estructura de carpetas a lo largo de la práctica](guia-directorios.svg)
 
 ## Tarea 1. Crear directorios
 
-1. Abre el **Explorador de archivos** y entra en **Documentos**.
+1. Abre el **Explorador de archivos** y entra en **Escritorio**.
 2. Haz clic con el botón derecho en un espacio vacío y selecciona **Nuevo > Carpeta**.
 3. Crea una carpeta llamada `Practica_archivos`.
 4. Entra en ella y crea tres carpetas: `Documentos`, `Copias` y `Entrega`.

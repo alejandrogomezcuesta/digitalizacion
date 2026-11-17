@@ -2,9 +2,9 @@
 
 ## Instalación con VirtualBox
 
-<https://docs.google.com/presentation/d/1Gp87-bnzGq3Pyjf8_c9ALCGJrOg1xzBjFYSzKyrP_Mg/edit?usp=sharing>
+<https://docs.google.com/presentation/d/1-eSfJ8Hcs2AiBTzyTFrMiXGaNFuVA0rPrbzSPKej7gY/edit?usp=sharing>
 
 
 ## Instalación de los drivers de VirtualBox
 
-<https://docs.google.com/presentation/d/1dhUuMurEfasBy3ULB4ecqalDBC0OSOqw9WmK0AslcqM/edit?usp=sharing>
+<https://docs.google.com/presentation/d/1e3hN02jphGVd3rntycK2uxr19ySdTs7q9tIwXKCmNMg/edit?usp=sharing>

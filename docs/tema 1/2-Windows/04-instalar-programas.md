@@ -11,6 +11,8 @@ En esta práctica instalarás dos aplicaciones desde Microsoft Store y cuatro me
 
 ## Instalar Microsoft To Do desde Microsoft Store
 
+**TODO**. Esta aplicación ya existe en Windows. Poner otra.
+
 1. Abre **Inicio**, busca y abre **Microsoft Store**.
 2. Busca `Microsoft To Do`, selecciona la aplicación y pulsa **Obtener** o **Instalar**.
 3. Espera a que termine la instalación. No es necesario iniciar sesión en la aplicación.

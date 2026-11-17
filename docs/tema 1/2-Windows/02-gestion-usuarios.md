@@ -51,10 +51,9 @@ Por seguridad, conviene usar una cuenta estándar para el trabajo diario y reser
 #### Tarea 4. Desde una cuenta estándar
 
 1. Inicia sesión con `mamá`.
-2. Abre **Configuración > Cuentas > Otros usuarios** y selecciona `administrador2`. Comprueba que desde esta cuenta estándar no aparece ninguna opción para cambiar la contraseña de otro usuario.
-3. En **Configuración**, entra en **Cuentas > Opciones de inicio de sesión > Contraseña > Cambiar**.
-4. Cambia la contraseña de `mamá`. No uses una contraseña personal ni incluyas contraseñas en la captura. Cierra la sesión e inicia de nuevo con la contraseña nueva.
-5. Haz una captura de pantalla que muestre que has iniciado sesión con `mamá` y guárdala como `Tarea4.jpg`.
+2. En **Configuración**, entra en **Cuentas > Opciones de inicio de sesión > Contraseña > Cambiar**.
+3. Cambia la contraseña de `mamá`. No uses una contraseña personal ni incluyas contraseñas en la captura. Cierra la sesión e inicia de nuevo con la contraseña nueva.
+4. Abre **Configuración > Cuentas > Otros usuarios** y selecciona `administrador2`. **Comprueba que la opción anterior NO EXISTE.**. Abre el programa que se llama **Bloc de notas** y escribe dentro la razón de por qué la opción *Configuración > Cuentas > Otros usuarios* no existe para el usuario *mamá*. Haz una captura de pantalla que muestre esta respuesta y guárdala como `Tarea4.jpg`.
 
 #### Tarea 5. Desde una cuenta administradora
 

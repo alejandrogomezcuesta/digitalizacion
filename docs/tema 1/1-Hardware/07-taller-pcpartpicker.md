@@ -50,3 +50,10 @@ Elige tres configuraciones de componentes de ordenador en PC Benchark, haciendo 
 
 Después elige los componentes seleccionados y haz tres presupuesto diferentes con PC Part Picker.
 
+Por cada presupuesto tienes que entregar dos imágenes:
+
+1. La puntuación en benchmark.
+2. El presupuesto de los componentes elegidos donde se vea el total gastado.
+
+Al final, tenemos que entregar 6 imágenes, dos de cada uno de los tres presupuestos: rojo, naranja y verde.
+
